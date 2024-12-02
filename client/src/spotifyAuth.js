@@ -3,7 +3,7 @@ import queryString from 'query-string';
 
 const clientId = process.env.REACT_APP_CLIENT_ID;
 const clientSecret = process.env.REACT_APP_CLIENT_SECRET;
-const redirectUri = 'http://localhost:3000/callback';
+const redirectUri = 'https://noize.amitfr.tech';
 const scopes = [
   'user-read-private',
   'user-read-email',
