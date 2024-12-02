@@ -9,6 +9,9 @@ Welcome to **Noize**! The ultimate music streaming experience designed to help y
 - **Chat with Others**: Connect with other music enthusiasts using your Spotify ID to start chatting.
 - **Development Stage**: Noize is still in development, and your feedback is highly valuable!
 
+  # Live website
+  - https://noize.amitfr.tech
+
 ## Getting Started
 
 To get started with Noize, follow the steps below to log in using your Spotify account.
@@ -63,6 +66,26 @@ To start using Noize, click the Login with Spotify button on the landing page. Y
 - Socket.io: For real-time chat functionality.
 - Tailwind CSS: For styling the app with a modern, responsive design.
 - AOS (Animate On Scroll): For smooth animations as you scroll through the app.
-# Contributing
-We welcome contributions to make Noize even better. If you have suggestions or improvements, feel free to fork the repository, create a new branch, and submit a pull request.
+## Contributing
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. Make your changes and commit them:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. Open a pull request.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- Inspiration
+- References
+- etc.
