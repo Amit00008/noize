@@ -21,6 +21,9 @@ To get started with Noize, follow the steps below to log in using your Spotify a
 - **Spotify Account**: You'll need a Spotify account to sign in and start streaming.
 - **Node.js**: Make sure you have [Node.js](https://nodejs.org) installed.
 
+- get spotify client id and secret from developer porta;
+- edit src/.example.env to .env and put the values correctly
+
 ### Installation
 
 1. Clone the repository to your local machine:
